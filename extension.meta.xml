@@ -33,6 +33,9 @@
 		<!-- None -->
 	</dependencies>
 	<releases>
+		<release version="1.0.4" date="2017-09-21" min="2.7.0" max="2.7.x">
+			- Updates for PHP7
+		</release>
 		<release version="1.0.3" date="2015-08-12" min="2.5.0" max="2.6.x">
 			- Added a un-link button.
 			- Entries can now be deleted straight from the field UI.
